@@ -1,5 +1,5 @@
 #summary Bonne pratiques pour la synchronisation du code à l'aide de SVN
-#labels svn,convention,commit
+#labels Featured,Phase-Implementation
 
 = Introduction =
 
