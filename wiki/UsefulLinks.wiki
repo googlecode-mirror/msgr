@@ -1,0 +1,12 @@
+#summary Useful links are listed here
+#labels Phase-Design
+
+= Objective =
+
+Resources which can be useful for msgr developmenet and features add.
+
+
+= Links =
+
+Here are the links:
+  * https://speakerdeck.com/u/hhamon/p/designing-rest-api-with-silex
